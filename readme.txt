@@ -4,4 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 Creating a new branch is quick
 dev add merge
-dev change readme.txt &
+dev change readme.txt and
